@@ -15,8 +15,9 @@ https://fonts.google.com/specimen/Crimson+Text
 #### Typeface: Karla
 https://fonts.google.com/specimen/Karla
 
-#### Copy
+#### Copy (ordering determined by designer)
 <pre>
+Jason Loeffler
 Asphodel
 20 Jay Street
 Suite 837
